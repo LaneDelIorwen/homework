@@ -97,3 +97,9 @@ git checkout master
 ```sh
 git branch <new_branch_name>
 ```
+
+Но Git не переключится на неё автоматически. Для перехода нужно использовать следующую команду.
+
+```sh
+git checkout <new_branch_name>
+```
